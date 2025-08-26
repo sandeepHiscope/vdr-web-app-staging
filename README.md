@@ -70,3 +70,365 @@ my-app/
 ├── vite.config.js
 └── package.json
 ```
+
+
+<!-- DEVELOPER_STATS_START -->
+## 🏆 Top Developers
+
+> **Enhanced Ranking System**: Industry-standard metrics including merged PRs, bug fixes, code reviews, issue resolution, documentation, velocity, and consistency.
+
+<div align="center">
+<table>
+<tr>
+  <th align="center">Rank</th>
+  <th align="center">DEVELOPER</th>
+  <th align="center">Tier</th>
+  <th align="center">🔀 PRs</th>
+  <th align="center">🐛 Fixes</th>
+  <th align="center">👀 Reviews</th>
+  <th align="center">🎯 Issues</th>
+  <th align="center">📝 Commits</th>
+  <th align="center">⚡ Speed</th>
+  <th align="center">🏆 Score</th>
+</tr>
+<tr>
+  <td align="center"><strong>🥇</strong></td>
+  <td align="center">
+    <a href="https://github.com/kiranvenkatbeesetty">
+      <img src="https://avatars.githubusercontent.com/u/191019299?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #FFD700;" />
+      <br />
+      <sub><strong>kiranvenkatbeesetty</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #FFD700; font-weight: bold;">🏆 Elite</span>
+  </td>
+  <td align="center">
+    <strong>59</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">11</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    10
+    <br />
+    <sub>8 opened</sub>
+  </td>
+  <td align="center">
+    135
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>5w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #FFD700;">1682</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🥈</strong></td>
+  <td align="center">
+    <a href="https://github.com/sandeepHiscope">
+      <img src="https://avatars.githubusercontent.com/u/190500287?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #FFD700;" />
+      <br />
+      <sub><strong>sandeepHiscope</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #FFD700; font-weight: bold;">🏆 Elite</span>
+  </td>
+  <td align="center">
+    <strong>27</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">6</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    6
+    <br />
+    <sub>21 opened</sub>
+  </td>
+  <td align="center">
+    198
+    <br />
+    <sub>5 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>5w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #FFD700;">957</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🥉</strong></td>
+  <td align="center">
+    <a href="https://github.com/Praneethvarma807">
+      <img src="https://avatars.githubusercontent.com/u/203406445?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #FFD700;" />
+      <br />
+      <sub><strong>Praneethvarma807</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #FFD700; font-weight: bold;">🏆 Elite</span>
+  </td>
+  <td align="center">
+    <strong>23</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">6</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    9
+    <br />
+    <sub>3 opened</sub>
+  </td>
+  <td align="center">
+    79
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>3w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #FFD700;">889</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🏅</strong></td>
+  <td align="center">
+    <a href="https://github.com/mohanhiscope">
+      <img src="https://avatars.githubusercontent.com/u/190594175?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #FF6B35;" />
+      <br />
+      <sub><strong>mohanhiscope</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #FF6B35; font-weight: bold;">🔥 Expert</span>
+  </td>
+  <td align="center">
+    <strong>19</strong>
+    <br />
+    <sub>95% rate</sub>
+  </td>
+  <td align="center">6</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    6
+    <br />
+    <sub>3 opened</sub>
+  </td>
+  <td align="center">
+    54
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>6w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #FF6B35;">772</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🏅</strong></td>
+  <td align="center">
+    <a href="https://github.com/PRAVEEN-PUVVALA">
+      <img src="https://avatars.githubusercontent.com/u/192223292?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #FF6B35;" />
+      <br />
+      <sub><strong>PRAVEEN-PUVVALA</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #FF6B35; font-weight: bold;">🔥 Expert</span>
+  </td>
+  <td align="center">
+    <strong>18</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">9</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    1
+    <br />
+    <sub>1 opened</sub>
+  </td>
+  <td align="center">
+    46
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>4w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #FF6B35;">698</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🏅</strong></td>
+  <td align="center">
+    <a href="https://github.com/anjaneyulu25">
+      <img src="https://avatars.githubusercontent.com/u/191020443?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #4ECDC4;" />
+      <br />
+      <sub><strong>anjaneyulu25</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #4ECDC4; font-weight: bold;">⭐ Advanced</span>
+  </td>
+  <td align="center">
+    <strong>13</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">1</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    1
+    <br />
+    <sub>0 opened</sub>
+  </td>
+  <td align="center">
+    33
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>3w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #4ECDC4;">476</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🏅</strong></td>
+  <td align="center">
+    <a href="https://github.com/Bhadru1812">
+      <img src="https://avatars.githubusercontent.com/u/209589235?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #96CEB4;" />
+      <br />
+      <sub><strong>Bhadru1812</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #96CEB4; font-weight: bold;">🌱 Growing</span>
+  </td>
+  <td align="center">
+    <strong>2</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">1</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    0
+    <br />
+    <sub>0 opened</sub>
+  </td>
+  <td align="center">
+    6
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>7min</code>
+    <br />
+    <sub>1w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #96CEB4;">123</strong>
+  </td>
+</tr>
+</table>
+</div>
+
+## 📊 Scoring Methodology
+
+Our enhanced ranking system uses **industry-standard metrics** based on GitHub Octoverse, OSCI, and open source best practices:
+
+### 🎯 **Core Contributions (60% of score)**
+| Metric | Weight | Description |
+|--------|---------|-------------|
+| **🔀 Merged PRs** | **20x** | Successfully merged pull requests (most important) |
+| **🐛 Bug Fixes** | **+5x** | Bug fix PRs get bonus points |
+| **📖 Documentation** | **+8x** | Documentation PRs are highly valued |
+| **📝 Recent Commits** | **8x** | Commits from last 3 months |
+| **📝 Historical Commits** | **4x** | Older commits (capped at 200 total points) |
+| **📏 Lines Changed** | **0.01-0.02x** | Code impact measurement |
+
+### 🤝 **Collaboration & Community (25% of score)**
+| Metric | Weight | Description |
+|--------|---------|-------------|
+| **👀 Code Reviews** | **6x** | PR reviews given to others |
+| **💬 Review Comments** | **3x** | Detailed review feedback |
+| **🎯 Issues Closed** | **12x** | Problems solved |
+| **🐛 Issues Opened** | **3x** | Problems identified (capped) |
+
+### ⚡ **Quality & Velocity (15% of score)**
+| Metric | Impact | Description |
+|--------|---------|-------------|
+| **✅ PR Acceptance Rate** | **30x ratio** | Quality indicator |
+| **⚡ Time-to-Merge** | **±15 points** | Speed bonus/penalty |
+| **📏 Large PR Penalty** | **-5x** | Encourages smaller, reviewable PRs |
+| **🔄 Consistency** | **+25 max** | Regular contribution pattern |
+
+### 🏆 **Contributor Tiers**
+
+- **🏆 Elite (800+ pts)**: Top 1% - Maintainer level contributors
+- **🔥 Expert (600-799 pts)**: Consistent high-impact contributors
+- **⭐ Advanced (400-599 pts)**: Regular valuable contributors
+- **📈 Active (200-399 pts)**: Steady contributors
+- **🌱 Growing (100-199 pts)**: Learning and contributing
+- **👋 Newcomer (0-99 pts)**: Just getting started
+
+<div align="center">
+  <sub>📈 Updated automatically every Monday at 00:00 UTC | Last update: 2025-08-26 | 
+  <a href="https://github.com/sandeepHiscope/vdr-web-app-staging/actions">⚙️ View Workflow</a></sub>
+</div>
+<!-- DEVELOPR_STATS_END -->
