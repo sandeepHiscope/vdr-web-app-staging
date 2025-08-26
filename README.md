@@ -48,7 +48,7 @@ If you have any questions or need assistance, feel free to contact our support t
 Thank you for choosing VDr. We hope you find the app useful and convenient for all your healthcare needs.
 
 # Project Structure
-
+```bash
 my-app/
 ├── public/
 │   └── index.html
@@ -69,3 +69,4 @@ my-app/
 ├── tailwind.config.js
 ├── vite.config.js
 └── package.json
+```
