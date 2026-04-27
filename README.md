@@ -13067,3 +13067,364 @@ Our enhanced ranking system uses **industry-standard metrics** based on GitHub O
   <a href="https://github.com/sandeepHiscope/vdr-web-app-staging/actions">⚙️ View Workflow</a></sub>
 </div>
 <!-- DEVELOPR_STATS_END -->
+
+<!-- DEVELOPER_STATS_START -->
+## 🏆 Top Developers
+
+> **Enhanced Ranking System**: Industry-standard metrics including merged PRs, bug fixes, code reviews, issue resolution, documentation, velocity, and consistency.
+
+<div align="center">
+<table>
+<tr>
+  <th align="center">Rank</th>
+  <th align="center">DEVELOPER</th>
+  <th align="center">Tier</th>
+  <th align="center">🔀 PRs</th>
+  <th align="center">🐛 Fixes</th>
+  <th align="center">👀 Reviews</th>
+  <th align="center">🎯 Issues</th>
+  <th align="center">📝 Commits</th>
+  <th align="center">⚡ Speed</th>
+  <th align="center">🏆 Score</th>
+</tr>
+<tr>
+  <td align="center"><strong>🥇</strong></td>
+  <td align="center">
+    <a href="https://github.com/kiranvenkatbeesetty">
+      <img src="https://avatars.githubusercontent.com/u/191019299?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #FFD700;" />
+      <br />
+      <sub><strong>kiranvenkatbeesetty</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #FFD700; font-weight: bold;">🏆 Elite</span>
+  </td>
+  <td align="center">
+    <strong>29</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">9</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    1
+    <br />
+    <sub>1 opened</sub>
+  </td>
+  <td align="center">
+    71
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>3w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #FFD700;">931</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🥈</strong></td>
+  <td align="center">
+    <a href="https://github.com/Praneethvarma807">
+      <img src="https://avatars.githubusercontent.com/u/203406445?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #4ECDC4;" />
+      <br />
+      <sub><strong>Praneethvarma807</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #4ECDC4; font-weight: bold;">⭐ Advanced</span>
+  </td>
+  <td align="center">
+    <strong>14</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">4</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    4
+    <br />
+    <sub>1 opened</sub>
+  </td>
+  <td align="center">
+    42
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>3w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #4ECDC4;">595</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🥉</strong></td>
+  <td align="center">
+    <a href="https://github.com/sandeepHiscope">
+      <img src="https://avatars.githubusercontent.com/u/190500287?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #4ECDC4;" />
+      <br />
+      <sub><strong>sandeepHiscope</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #4ECDC4; font-weight: bold;">⭐ Advanced</span>
+  </td>
+  <td align="center">
+    <strong>10</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">2</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    2
+    <br />
+    <sub>11 opened</sub>
+  </td>
+  <td align="center">
+    106
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>2w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #4ECDC4;">525</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🏅</strong></td>
+  <td align="center">
+    <a href="https://github.com/PRAVEEN-PUVVALA">
+      <img src="https://avatars.githubusercontent.com/u/192223292?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #45B7D1;" />
+      <br />
+      <sub><strong>PRAVEEN-PUVVALA</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #45B7D1; font-weight: bold;">📈 Active</span>
+  </td>
+  <td align="center">
+    <strong>10</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">5</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    0
+    <br />
+    <sub>0 opened</sub>
+  </td>
+  <td align="center">
+    25
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>1w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #45B7D1;">391</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🏅</strong></td>
+  <td align="center">
+    <a href="https://github.com/mohanhiscope">
+      <img src="https://avatars.githubusercontent.com/u/190594175?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #45B7D1;" />
+      <br />
+      <sub><strong>mohanhiscope</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #45B7D1; font-weight: bold;">📈 Active</span>
+  </td>
+  <td align="center">
+    <strong>8</strong>
+    <br />
+    <sub>89% rate</sub>
+  </td>
+  <td align="center">2</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    2
+    <br />
+    <sub>1 opened</sub>
+  </td>
+  <td align="center">
+    27
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>3w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #45B7D1;">371</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🏅</strong></td>
+  <td align="center">
+    <a href="https://github.com/anjaneyulu25">
+      <img src="https://avatars.githubusercontent.com/u/191020443?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #45B7D1;" />
+      <br />
+      <sub><strong>anjaneyulu25</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #45B7D1; font-weight: bold;">📈 Active</span>
+  </td>
+  <td align="center">
+    <strong>8</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">0</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    1
+    <br />
+    <sub>0 opened</sub>
+  </td>
+  <td align="center">
+    21
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>0min</code>
+    <br />
+    <sub>3w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #45B7D1;">320</strong>
+  </td>
+</tr>
+<tr>
+  <td align="center"><strong>🏅</strong></td>
+  <td align="center">
+    <a href="https://github.com/Bhadru1812">
+      <img src="https://avatars.githubusercontent.com/u/209589235?v=4" width="32" height="32" style="border-radius: 50%; border: 2px solid #96CEB4;" />
+      <br />
+      <sub><strong>Bhadru1812</strong></sub>
+    </a>
+  </td>
+  <td align="center">
+    <span style="color: #96CEB4; font-weight: bold;">🌱 Growing</span>
+  </td>
+  <td align="center">
+    <strong>2</strong>
+    <br />
+    <sub>100% rate</sub>
+  </td>
+  <td align="center">1</td>
+  <td align="center">
+    0
+    <br />
+    <sub>+0 comments</sub>
+  </td>
+  <td align="center">
+    0
+    <br />
+    <sub>0 opened</sub>
+  </td>
+  <td align="center">
+    6
+    <br />
+    <sub>0 recent</sub>
+  </td>
+  <td align="center">
+    <code>7min</code>
+    <br />
+    <sub>1w active</sub>
+  </td>
+  <td align="center">
+    <strong style="color: #96CEB4;">123</strong>
+  </td>
+</tr>
+</table>
+</div>
+
+## 📊 Scoring Methodology
+
+Our enhanced ranking system uses **industry-standard metrics** based on GitHub Octoverse, OSCI, and open source best practices:
+
+### 🎯 **Core Contributions (60% of score)**
+| Metric | Weight | Description |
+|--------|---------|-------------|
+| **🔀 Merged PRs** | **20x** | Successfully merged pull requests (most important) |
+| **🐛 Bug Fixes** | **+5x** | Bug fix PRs get bonus points |
+| **📖 Documentation** | **+8x** | Documentation PRs are highly valued |
+| **📝 Recent Commits** | **8x** | Commits from last 3 months |
+| **📝 Historical Commits** | **4x** | Older commits (capped at 200 total points) |
+| **📏 Lines Changed** | **0.01-0.02x** | Code impact measurement |
+
+### 🤝 **Collaboration & Community (25% of score)**
+| Metric | Weight | Description |
+|--------|---------|-------------|
+| **👀 Code Reviews** | **6x** | PR reviews given to others |
+| **💬 Review Comments** | **3x** | Detailed review feedback |
+| **🎯 Issues Closed** | **12x** | Problems solved |
+| **🐛 Issues Opened** | **3x** | Problems identified (capped) |
+
+### ⚡ **Quality & Velocity (15% of score)**
+| Metric | Impact | Description |
+|--------|---------|-------------|
+| **✅ PR Acceptance Rate** | **30x ratio** | Quality indicator |
+| **⚡ Time-to-Merge** | **±15 points** | Speed bonus/penalty |
+| **📏 Large PR Penalty** | **-5x** | Encourages smaller, reviewable PRs |
+| **🔄 Consistency** | **+25 max** | Regular contribution pattern |
+
+### 🏆 **Developer Tiers**
+
+- **🏆 Elite (800+ pts)**: Top 1% - Maintainer level Developer
+- **🔥 Expert (600-799 pts)**: Consistent high-impact Developer
+- **⭐ Advanced (400-599 pts)**: Regular & valuable Developer
+- **📈 Active (200-399 pts)**: Steady Developer
+- **🌱 Growing (100-199 pts)**: Developer [Learning]
+- **👋 Newcomer (0-99 pts)**: Just getting started
+
+<div align="center">
+  <sub>📈 Updated automatically every Monday at 00:00 UTC | Last update: 2026-04-27 02:06:26.177 | 
+  <a href="https://github.com/sandeepHiscope/vdr-web-app-staging/actions">⚙️ View Workflow</a></sub>
+</div>
+<!-- DEVELOPR_STATS_END -->
